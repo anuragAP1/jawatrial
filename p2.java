@@ -10,6 +10,9 @@ public class prog1
 	int b;
         b=1;
         System.out.println(b);
+	int b;
+        b=1;
+        System.out.println(b);
 
     }
 }
